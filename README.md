@@ -80,7 +80,6 @@ The model demonstrated strong generalization by effectively generating basin-spe
 The developed conditional diffusion-based model (Diffusion-TS) shows significant promise for streamflow prediction, especially in ungauged or data-scarce scenarios. Key improvements include training on a larger multi-basin dataset and effectively combining static basin attributes with dynamic temporal variables.
 
 
-
 ## References
 
 *   Yuan, X., and Qiao, Y. (2023). "Diffusion-ts: Interpretable diffusion for general time series generation." Hefei University of Technology.
